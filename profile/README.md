@@ -1,5 +1,5 @@
 <h1>
-  <img src="[https://github.com/user-attachments/assets/6e8f0250-5d37-4da2-aceb-66129f9be789](https://github.com/user-attachments/assets/6e8f0250-5d37-4da2-aceb-66129f9be789)" alt="The Incubator for Artificial Intelligence. Our mission is to act on government's duty to harness AI for public good."/>  
+  <img src="https://github.com/i-dot-ai/.github/blob/main/profile/I.AI%20header.png" alt="The Incubator for Artificial Intelligence. Our mission is to act on government's duty to harness AI for public good."/>  
 </h1>
 
 [![X](https://img.shields.io/badge/X-%40i__dot__ai-c50878)](https://twitter.com/i_dot_ai)
