@@ -6,6 +6,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-i.AI-c50878)](https://uk.linkedin.com/company/i-dot-ai)
 
 
+
+## We're hiring!
+
+Come and help us build the next of AI solutions and products for Government. Our team of experts was created by No10 to use AI to deliver for the public good. We do this by experimenting, failing fast, and building products.
+
+We are currently hiring AI engineers and are looking for people who are:
+
+- Passionate about applied AI for the public good
+- strong coding and software engineering skills
+- Mission driven
+- Outcome focussed, rather than output
+- Entrepreneurial/ founder mindset
+- Thrive in dynamic environments
+- Experienced with the latest advances in AI (agents, MCP, new foundation models)
+  
+We have two flavours of AI engineer, so please apply if you are interested either in applied research or product building.
+
+Check on [Linkedin](https://www.linkedin.com/company/i-dot-ai/) or [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPVNlYXJjaCZjb250ZXh0aWQ9MTAxNjYzMjcxJnBhZ2VhY3Rpb249c2VhcmNoY29udGV4dCZvd25lcj01MDcwMDAwJnJlcXNpZz0xNzI5NTA5NDU4LTdjZmQwMGQ5MDQ3OWE5NzU2MTA4NGY2MDFiZjQzOGQwMGM0ZmViMjk=). We're based in London, Bristol and Manchester.
+
 ## About us
 
 The Incubator for Artificial Intelligence (i.AI) is an agile delivery team within the Government Digital Service (GDS), part of the Department for Science, Innovation and Technology (DSIT).
@@ -13,13 +32,6 @@ The Incubator for Artificial Intelligence (i.AI) is an agile delivery team withi
 Our mission is to act on government's duty to harness AI for public good. To do this we recruit top talent from industry, academia and across the public sector to make government better and serve the public interest.
 
 Visit [ai.gov.uk](https://ai.gov.uk) for further information. Please contact us at [i-dot-ai-enquiries@cabinetoffice.gov.uk](mailto:i-dot-ai-enquiries@cabinetoffice.gov.uk) if you are interested in working together or contributing to our projects.
-
-
-## Job opportunities
-
-We're currently hiring for a number of roles. Check for i.AI jobs on [Linkedin](https://www.linkedin.com/company/i-dot-ai/) or [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPVNlYXJjaCZjb250ZXh0aWQ9MTAxNjYzMjcxJnBhZ2VhY3Rpb249c2VhcmNoY29udGV4dCZvd25lcj01MDcwMDAwJnJlcXNpZz0xNzI5NTA5NDU4LTdjZmQwMGQ5MDQ3OWE5NzU2MTA4NGY2MDFiZjQzOGQwMGM0ZmViMjk=). We're based in London, Bristol and Manchester.
-
-Our selection process varies for each role. For technical roles it includes a technical assessment as well as an interview.
 
 
 ## Our open-source projects
