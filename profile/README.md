@@ -42,6 +42,7 @@ Here is a selection of our open source projects.
 Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 :-- | :--
 [Consult](https://github.com/i-dot-ai/consult) | An LLM-powered tool to automate the processing of public consultations. | 
+[Caddy](https://github.com/i-dot-ai/caddy) |  A Retrieval-Augmented Generation (RAG) platform. |
 [Lex](https://github.com/i-dot-ai/lex) | A comprehensive legislative service that downloads, parses, and indexes legislation, explanatory notes, amendments, and caselaw for subsequent search via an OpenAPI backend and MCP server. |
 [Theme Finder](https://github.com/i-dot-ai/themefinder)| A topic modelling Python package designed for analysing one-to-many question-answer data (i.e. survey responses, public consultations, etc.). |
 [GovAI Client](https://github.com/i-dot-ai/gov-ai-client) | A thin chat client for connecting to MCP Servers. |
