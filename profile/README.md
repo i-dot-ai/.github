@@ -49,5 +49,6 @@ Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [Website](https://github.com/i-dot-ai/ai-gov-uk-website) | This is our repository for our public website. The intent of this site is to give us a public space for showcasing our work, news about the team, upcoming jobs and interesting commercial partnerships. |
 [Utilities package](https://github.com/i-dot-ai/i-dot-ai-utilities) | This is our utilities library. We use this to store common patterns for usage across the team and is available for anyone to make use of too! |
 [Parliament MCP](https://github.com/i-dot-ai/parliament-mcp) | An [MCP](https://modelcontextprotocol.io/introduction) server that roughly maps onto a subset of https://developer.parliament.uk/, as well as offering additional semantic search capabilities. |
+[Planning drawing validator](https://github.com/i-dot-ai/planning-drawing-validator) | An application for validating planning drawings, such as floor plans, using [VLM](https://www.nvidia.com/en-gb/glossary/vision-language-models/) techniques and up-to-date guidance. |
 
 Visit our [projects page](https://ai.gov.uk/projects/) for information on many of our other projects.
