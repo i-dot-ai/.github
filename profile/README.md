@@ -1,6 +1,4 @@
-<h1>
-  <img src="https://github.com/i-dot-ai/.github/blob/main/profile/I.AI%20header.png" alt="The Incubator for Artificial Intelligence. Our mission is to act on government's duty to harness AI for public good."/>  
-</h1>
+
 
 [![X](https://img.shields.io/badge/X-%40i__dot__ai-c50878)](https://twitter.com/i_dot_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-i.AI-c50878)](https://uk.linkedin.com/company/i-dot-ai)
